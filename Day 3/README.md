@@ -56,3 +56,25 @@ public class ReadFileLineByLineUsingBufferedReader {
 
 }
 ```
+
+```
+\\ Beginning
+output.substring(1)
+
+\\ Beginning and Ending
+output.substring(1,2)
+
+System.out.printf("$ %,.2f", total);
+
+for (char c: string.toCharArray()){
+    if (Character.isDigit(c)){
+        number += String.valueOf(c);
+    }
+}
+
+string.toCharArray()
+
+Character.isDigit(c)
+
+number.equals("")
+```
